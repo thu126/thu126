@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋， I'm Steven Hsia
 
-<!--
-**thu126/thu126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student at Tsinghua University | 📚 
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring: data structures and algorithm, machine learning fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Languages & Tools: C++, Python
+
+- 📈 Passionate about blending technical skills with real-world impact
+
+- ✨ Motto: "Strive to be someone who brings warmth and change to others."
+
+📫 Reach me at: hsiasteven126@gmail.com
+
+🌟 Always learning, always growing!
